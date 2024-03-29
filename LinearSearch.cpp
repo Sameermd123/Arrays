@@ -23,7 +23,7 @@ int main()
     cout << "Enter the element to search for : " << endl;
     int key;
     cin >> key;
-    bool found = linearSearch(arr, 5, key);
+    bool found = linearSearch(arr, n, key);
     if(found){
         cout << "Key is Present" << endl;
     }
