@@ -22,3 +22,7 @@ void insertionSort(int n, vector<int> &arr)
         arr[j+1]=temp;
     }
 }
+// space complexity of this algorithm is O(1) i.e linear
+// Time Complexity of above code is O(n2)
+// Best case complexity of insertion sort is O(n) i.e when the array is alreay sorted
+// worst case complexity is O(n2)
