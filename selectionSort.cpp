@@ -33,3 +33,4 @@ void selectionSort(vector<int>& arr, int n)
 
 // when the size of array is small then we use Selection sort
 // best case complexity & worst case complexity for selection sort is same i.e O(n2)
+// Space Complexity is constant i.e O(1).
